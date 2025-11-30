@@ -26,7 +26,7 @@ This repository contains a Python script, **rewritten and modernized with the he
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Cart1416/Add-Non-Steam-CLI.git
+git clone https://github.com/Tutorialshik/Add-Non-Steam-CLI.git
 cd Add-Non-Steam-CLI
 ```
 
@@ -87,21 +87,7 @@ The script also includes automatic checks for these dependencies and can attempt
 
 ## Notes
 
-* You must obtain a SteamGridDB API key from [https://www.steamgriddb.com](https://www.steamgriddb.com) for artwork fetching.
+* You must obtain a SteamGridDB API key from [https://www.steamgriddb.com](https://www.steamgriddb.com/profile/preferences/api) for artwork fetching.
 * Ensure Steam is installed in the default path or update the Steam directories in the script (`Windows` or `Linux` paths).
 * Flatpak Steam users on Linux are supported, with automatic detection of the correct Steam user data directory.
 * The rewritten script includes improved logging, exception handling, and modern Python best practices.
-
----
-
-### Acknowledgment
-
-This version of the script has been **rewritten and enhanced with AI assistance**, improving readability, maintainability, and security features such as API key handling via `keyring`.
-
-#non-steam-adder #steamgriddb #python #keyring #automation
-[[Python]] [[Steam]] [[SteamGridDB]] [[CLI]] [[Keyring]] [[Automation]]
-
-```
-
-Если хочешь, я могу сразу сделать **расширенную версию README**, где будет древовидная схема работы скрипта и объяснение каждого шага (для легкого внесения изменений). Это будет особенно удобно для поддержки и коммитов на GitHub.
-```
