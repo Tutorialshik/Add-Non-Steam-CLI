@@ -23,17 +23,11 @@ This repository contains a Python script, **rewritten and modernized with the he
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/Tutorialshik/Add-Non-Steam-CLI.git
 cd Add-Non-Steam-CLI
-```
-
-2. Install Python dependencies:
-
-```bash
-pip install -r requirements.txt
 ```
 
 > The script can also attempt to automatically install missing dependencies using `pip` or your system package manager if needed.
